@@ -1,6 +1,6 @@
 package com.sample;
 
-public class gameobj {
+public class Main {
     public static void main(String[] args) {
 
     }
